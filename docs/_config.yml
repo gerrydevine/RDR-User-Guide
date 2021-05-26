@@ -1,9 +1,11 @@
 # Setup
-title: eResearch Guides
-tagline: "User Guides for Macquarie University"
-description: "Some User Guides"
+title: User Guides
+tagline: "User Guides for Digital Tools and Softwares at Macquarie University"
+# description: "Some User Guides"
+description: ""
 # url:
-baseurl: "RDR-User-Guide"
+# baseurl: "/UserGuides"
+baseurl: ""
 paginate: 5
 permalink: pretty
 
