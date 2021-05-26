@@ -28,7 +28,7 @@ Projects within the RDR allow researchers to collaborate around data organising 
 
 <p align="center">
   <a href="/User-Guides/assets/images/rdr/projects_tab.png" target="_blank">
-    <img width="700" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/projects_tab.png">
+    <img width="800" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/projects_tab.png">
   </a>
 </p>
 
@@ -36,7 +36,7 @@ Projects within the RDR allow researchers to collaborate around data organising 
 
 <p align="center">
   <a href="/User-Guides/assets/images/rdr/data_upload_form.png" target="_blank">
-    <img width="700" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/data_upload_form.png">
+    <img width="800" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/data_upload_form.png">
   </a>
 </p>
 
@@ -52,7 +52,7 @@ Projects within the RDR allow researchers to collaborate around data organising 
 
   <p align="center">
     <a href="/User-Guides/assets/images/rdr/publish_item.png" target="_blank">
-      <img width="700" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/publish_item.png">
+      <img width="800" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/publish_item.png">
     </a>
   </p>
 
