@@ -3,7 +3,7 @@ title: eResearch Guides
 tagline: "User Guides for Macquarie University"
 description: "Some User Guides"
 # url:
-baseurl: ""
+baseurl: "RDR-User-Guide"
 paginate: 5
 permalink: pretty
 
