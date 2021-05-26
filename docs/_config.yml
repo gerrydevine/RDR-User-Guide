@@ -1,11 +1,11 @@
 # Setup
-title: User Guides
+title: MQ Digital User Guides
 tagline: "User Guides for Digital Tools and Softwares at Macquarie University"
 # description: "Some User Guides"
 description: ""
 # url:
 # baseurl: "/UserGuides"
-baseurl: ""
+baseurl: "/User-Guides/"
 paginate: 5
 permalink: pretty
 

@@ -10,8 +10,6 @@ title: Research Data Repository
 - [Projects](#projects)
 - [Uploading a dataset](#uploading-a-dataset)
 - [Appendix](#appendix)
-  - [Formatting your data](#formatting-your-data)
-  - [Completing the data upload metadata fields](#completing-the-data-upload-metadata-fields)
 
 ---
 
@@ -29,13 +27,17 @@ Projects within the RDR allow researchers to collaborate around data organising 
 2. Click on the _'My data'_ link on the top right of the screen, then click on the _'Projects'_ tab to navigate to your list of projects
 
 <p align="center">
-  <img width="700" style="border: 1px solid; box-shadow: 2px 2px #888888;" src="/assets/images/rdr/projects_tab.png">
+  <a href="/User-Guides/assets/images/rdr/projects_tab.png" target="_blank">
+    <img width="700" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/projects_tab.png">
+  </a>
 </p>
 
 3. Select the project under which you'd like to upload the dataset. On the resulting Project page, click on _'Add a new item'_ which will load the dataset upload form.
 
 <p align="center">
-  <img width="950" style="border: 2px solid; box-shadow: 2px 2px #888888;" src="/assets/images/rdr/data_upload_form.png">
+  <a href="/User-Guides/assets/images/rdr/data_upload_form.png" target="_blank">
+    <img width="700" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/data_upload_form.png">
+  </a>
 </p>
 
 4. Upload your dataset by either dragging the dataset file(s) from your local PC onto the data upload panel at the top of the form, or use the _'browse'_ link to select a file(s) from your local file system.
@@ -48,9 +50,11 @@ Projects within the RDR allow researchers to collaborate around data organising 
 
 7. When you are happy that your dataset record is complete, and that the uploaded data and associated metadata fields are of a high quality, you can choose to now publish your dataset. To do so, tick the checkbox marked _'Publish'_ at the bottom of the form, then click on the _'Publish item'_ button to send your dataset forward for publication.
 
-<p align="center">
-  <img width="500" style="border: 2px solid;" src="images\publish_item.png">
-</p>
+  <p align="center">
+    <a href="/User-Guides/assets/images/rdr/publish_item.png" target="_blank">
+      <img width="700" style="border: 1px solid;" src="/User-Guides/assets/images/rdr/publish_item.png">
+    </a>
+  </p>
 
 8. Your dataset has been sent forward for publication review by a member of the repository administration team. Upon successful publication you will receive a DOI for your published dataset that you can now use to publicly identify and cite your dataset. Should any issue arise with your dataset during review , a member of the repository team will be in touch with you.
 
