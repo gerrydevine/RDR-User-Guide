@@ -10,12 +10,15 @@ title: Research Data Repository
 - [Projects](#projects)
 - [Uploading a dataset](#uploading-a-dataset)
 - [Appendix](#appendix)
+- [Further Information](#further-information)
 
 ---
 
 ## Introduction
 
-Macquarie University's Institutional Research Data Repository (RDR) allows researchers to upload, publish, search and download research data. The RDR promotes collaboration, data sharing and discovery amongst researchers globally according to <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a> data principles.
+The Research Data Repository (RDR) allows you, as a researcher at Macquarie University, to upload your research data and make it publicly available. In doing so, The RDR promotes collaboration, data sharing and discovery amongst researchers globally according to <a href="https://www.go-fair.org/fair-principles/" target="_blank">FAIR</a> data principles. 
+
+This User Guide will walk you through the main tenants of the RDR and guide you in sharing your research data with the wider community.
 
 ---
 
@@ -34,7 +37,7 @@ To log in:
       </a>
     </p>
 
-3. Enter your Macquarie University OneID credentials. Once you have entered these, you will be asked to authenticate with your 2FA credentials:
+3. Enter your Macquarie University OneID credentials. Once you have entered these, you will need to then further authenticate with 2FA credentials (typically using an authenticator app on your mobile phone device):
 
     <p align="center">
       <a href="/User-Guides/assets/images/rdr/mq_sso.png" target="_blank">
@@ -50,7 +53,7 @@ To log in:
 
     <br />
 
-    <aside class="callout warning">
+    <aside class="callout">
       <b> Note </b>
       If this is your first time logging into the RDR you will need to set up your two-factor authentication. Follow the instructions given to do so.
     </aside>
@@ -63,11 +66,13 @@ To log in:
       </a>
     </p>
 
+5. You can return to this home page (or 'My data' page) at any time by clicking __My data__ on the top right corner of the page.
+
 ---
 
 ## Projects
 
-Projects within the RDR allow researchers to collaborate around data organising upload mirror actual research projects being undertaken at Macquarie and
+Projects are a key element of the RDR and are a way to organise your data within the RDR. Projects in the RDR map directly to actual research projects being undertaken at Macquarie University. 
 
 ---
 
@@ -130,3 +135,9 @@ Projects within the RDR allow researchers to collaborate around data organising 
 ---
 
 ### Completing the data upload metadata fields
+
+--
+
+## Further Information
+
+---
