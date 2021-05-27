@@ -3,8 +3,6 @@ title: MQ Digital User Guides
 tagline: "User Guides for Digital Tools and Softwares at Macquarie University"
 # description: "Some User Guides"
 description: ""
-# url:
-# baseurl: "/UserGuides"
 baseurl: "/User-Guides/"
 paginate: 5
 permalink: pretty
@@ -12,7 +10,7 @@ permalink: pretty
 # About/contact
 author:
   name: Gerry Devine
-  url: https://twitter.com/mdo
+  url: https://twitter.com/
   email: gerry.devine@mq.edu.au
 
 # Gems

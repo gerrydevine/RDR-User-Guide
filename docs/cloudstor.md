@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CloudStor
+url: 1
 ---
 
 ---

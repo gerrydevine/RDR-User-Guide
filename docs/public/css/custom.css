@@ -1,0 +1,25 @@
+.callout {
+  padding: 0.8em 1em;
+  line-height: 1.2;
+  text-align: center;
+  position: relative;
+  clear: both;
+  border-radius: 0 10px 10px 0;
+}
+
+.callout {
+  background: rgba(224, 226, 255, 0.5);
+  border-left: 4px solid #b4aaff;
+  color: #242424;
+  margin: 1em 1em 2em 1em;
+}
+
+.callout.warning {
+  background-color: #ffe5d9;
+  border-left: 4px solid orangered;
+}
+
+.callout.success {
+  background-color: #edf3ed;
+  border-left: 4px solid #3cc3c3;
+}
