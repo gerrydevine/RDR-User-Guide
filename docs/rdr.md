@@ -72,7 +72,9 @@ To log in:
 
 ## Projects
 
-Projects are a key element of the RDR and are a way to organise your data within the RDR. Projects in the RDR map directly to actual research projects being undertaken at Macquarie University. 
+Projects are a key feature of the RDR and are a way to put your uploaded datasets into context with the actual research that produced them. Research project information is synchronised from Macquarie University's [Research Management System (Pure)](https://researchers.mq.edu.au/) into the RDR, and thus allows you to upload and organise datasets under the umbrella of the research project in which it was created. In addition, any collaborators on the project are also invited to collaborate with you on uploading and publishing datasets into the RDR under that project.         
+
+help you organise your data within the RDR as well as collaborate with your project. Projects in the RDR map directly to actual research projects being undertaken at Macquarie University. 
 
 ---
 
@@ -100,7 +102,6 @@ Projects are a key element of the RDR and are a way to organise your data within
       <b> Note </b>
       It is important that your datasets are properly formatted for open data publication. To get further help in how to structure and save your data see the guide entitled <strong>Formatting Your Data for Publication</strong>.
     </aside>
-
 
 4.  Fill out the metadata fields on the form (Title, Description, etc), remembering that your answers here determine the quality and discoverability of your data. You are encouraged to follow along with the guidelines in the appendix of this doucment for how to complete each section of the upload form.
 
